@@ -22,28 +22,28 @@ const perguntas = [
     {
         enunciado: "Como você se sente sobre mudanças de prioridade no trabalho?",
         alternativas: [
-            {
-                texto: "Planejamento e Ajustes",
-                afirmacao: "Planejar com antecedência e ajustar o trabalho conforme as mudanças ajuda a manter a organização e a eficiência, mesmo com novos desafios."
-            },
-            {
-                texto: "Adaptação Rápida",
-                afirmacao: "Adaptar-se rapidamente às mudanças de prioridade permite agir de forma ágil e flexível, lidando com novas demandas de maneira eficiente."
-            }
-           
+      {
+          texto: "Planejamento e Ajustes",
+         afirmacao: "Planejar com antecedência e ajustar o trabalho conforme as mudanças ajuda a manter a organização e a eficiência, mesmo com novos desafios."
+      },
+         {
+         texto: "Adaptação Rápida",
+         afirmacao: "Adaptar-se rapidamente às mudanças de prioridade permite agir de forma ágil e flexível, lidando com novas demandas de maneira eficiente."
+         }
+    
         ]
     },
     {
         enunciado: " Qual é a sua abordagem para a tomada de decisões no trabalho?",
         alternativas: [
-            {
-                texto: "Decisões Baseadas em Dados",
-                afirmacao:"Tomar decisões baseadas em dados e análises detalhadas assegura que as escolhas sejam informadas e que os riscos sejam minimizados."
-            },
-            {
-                texto: "Decisões Intuitivas",
-                afirmacao:"Tomar decisões com base na intuição e na experiência permite agir de forma mais ágil e criativa, especialmente em situações dinâmicas."
-            }
+     {
+          texto: "Decisões Baseadas em Dados",
+         afirmacao:"Tomar decisões baseadas em dados e análises detalhadas assegura que as escolhas sejam informadas e que os riscos sejam minimizados."
+    },
+     {
+        texto: "Decisões Intuitivas",
+       afirmacao:"Tomar decisões com base na intuição e na experiência permite agir de forma mais ágil e criativa, especialmente em situações dinâmicas."
+     }
         ]
     }
 ];
