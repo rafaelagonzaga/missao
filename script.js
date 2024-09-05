@@ -8,14 +8,14 @@ const perguntas = [
     {
         enunciado: "Estilo e Preferências no Ambiente de Trabalho?",
         alternativas: [
-            {
-                texto: "Comunicação Formal e Estruturada",
-                afirmacao: "A comunicação formal e estruturada ajuda a garantir que todas as informações sejam claras e documentadas, minimizando mal-entendidos."
-            },
-            {
-                texto: "Comunicação Informal e Direta",
-                afirmacao: "A comunicação informal e direta permite resolver questões rapidamente e mantém o ambiente de trabalho mais descontraído e acessível."
-            }
+      {
+       texto: "Comunicação Formal e Estruturada",
+         afirmacao: "A comunicação formal e estruturada ajuda a garantir que todas as informações sejam claras e documentadas, minimizando mal-entendidos."
+     },
+         {
+           texto: "Comunicação Informal e Direta",
+         afirmacao: "A comunicação informal e direta permite resolver questões rapidamente e mantém o ambiente de trabalho mais descontraído e acessível."
+         }
            
         ]
     },
