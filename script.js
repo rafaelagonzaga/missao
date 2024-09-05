@@ -6,43 +6,43 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Como você acredita que podemos combater o racismo na sociedade?",
+        enunciado: "Estilo e Preferências no Ambiente de Trabalho?",
         alternativas: [
             {
-                texto: "Participando de campanhas de conscientização e educação sobre igualdade racial.",
-                afirmacao: "afirmacao1"
+                texto: "Comunicação Formal e Estruturada",
+                afirmacao: "A comunicação formal e estruturada ajuda a garantir que todas as informações sejam claras e documentadas, minimizando mal-entendidos."
             },
             {
-                texto: "Denunciando atos de discriminação e apoiando políticas públicas inclusivas.",
-                afirmacao: "afirmacao2"
+                texto: "Comunicação Informal e Direta",
+                afirmacao: "A comunicação informal e direta permite resolver questões rapidamente e mantém o ambiente de trabalho mais descontraído e acessível."
             }
            
         ]
     },
     {
-        enunciado: "Como você pode ajudar a combater a disseminação de fake news, especialmente as que perpetuam o racismo?",
+        enunciado: "Como você se sente sobre mudanças de prioridade no trabalho?",
         alternativas: [
             {
-                texto: "Verificando a veracidade das informações antes de compartilhar qualquer conteúdo, especialmente sobre temas sensíveis como racismo.",
-                afirmacao: "afirmacao3"
+                texto: "Planejamento e Ajustes",
+                afirmacao: "Planejar com antecedência e ajustar o trabalho conforme as mudanças ajuda a manter a organização e a eficiência, mesmo com novos desafios."
             },
             {
-                texto: "Educando amigos e familiares sobre os perigos das fake news e incentivando-os a não compartilhar conteúdos falsos que perpetuam o racismo.",
-                afirmacao: "afirmacao4"
+                texto: "Adaptação Rápida",
+                afirmacao: "Adaptar-se rapidamente às mudanças de prioridade permite agir de forma ágil e flexível, lidando com novas demandas de maneira eficiente."
             }
            
         ]
     },
     {
-        enunciado: "Como podemos incentivar o uso de energia solar e outras formas de energia limpa, especialmente em comunidades carentes?",
+        enunciado: " Qual é a sua abordagem para a tomada de decisões no trabalho?",
         alternativas: [
             {
-                texto: "Defendendo políticas públicas que subsidiem a energia solar para famílias de baixa renda.",
-                afirmacao:"afirmacao5"
+                texto: "Decisões Baseadas em Dados",
+                afirmacao:"Tomar decisões baseadas em dados e análises detalhadas assegura que as escolhas sejam informadas e que os riscos sejam minimizados."
             },
             {
-                texto: "Promovendo a instalação de painéis solares em escolas e centros comunitários de comunidades marginalizadas.",
-                afirmacao:"afirmacao6"
+                texto: "Decisões Intuitivas",
+                afirmacao:"Tomar decisões com base na intuição e na experiência permite agir de forma mais ágil e criativa, especialmente em situações dinâmicas."
             }
         ]
     }
